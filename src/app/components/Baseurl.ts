@@ -1,0 +1,1 @@
+export const BaseUrl='https://backendb2b.kadinabiye.com/'
